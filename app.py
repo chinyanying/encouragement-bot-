@@ -33,8 +33,8 @@ while True:
       feelings_list.append("frustrated")
       encouragement_list.append("tomorrow will be a better day and the frustration will go away")
       counter += 1      
-    if each_word == "excited":
-      feelings_list.append("excited")
+    if each_word == "happy":
+      feelings_list.append("happy")
       encouragement_list.append("you should always be happy and keep smiling")
       counter += 1
     if each_word == "annoyed":

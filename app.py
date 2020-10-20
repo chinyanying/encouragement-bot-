@@ -23,19 +23,19 @@ while True:
       counter += 1
     if each_word == "tired":
       feelings_list.append("tired")
-      encouragement_list.append("you are stronger than you think")
+      encouragement_list.append("don't give up, you are stronger than you think")
       counter += 1
     if each_word == "angry":
       feelings_list.append("angry")
-      encouragement_list.append("tomorrow will be a better day and the anger will go away")
+      encouragement_list.append("don't give in to your emotions, look forward to tomorrow, I'm sure it will be better")
       counter += 1
     if each_word == "frustrated":
       feelings_list.append("frustrated")
-      encouragement_list.append("tomorrow will be a better day and the frustration will go away")
+      encouragement_list.append("It's okay, people make mistakes sometimes, look forward to tomorrow, a brand new day")
       counter += 1      
     if each_word == "excited":
       feelings_list.append("excited")
-      encouragement_list.append("you should always be happy and keep smiling")
+      encouragement_list.append("always be happy, keep smiling")
       counter += 1
     if each_word == "annoyed":
       feelings_list.append("annoyed")
